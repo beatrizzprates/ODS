@@ -1,0 +1,14 @@
+body {
+ font-family: 'Montserrat', sans-serif;
+  margin: 10px;
+  text-align: justify;
+}
+
+header {
+   background-image: url('https://img.freepik.com/vetores-gratis/limpar-historico-medico_53876-116875.jpg?size=626&ext=jpg&ga=GA1.1.550104929.1690398310&semt=ais');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  padding-top: 15px;
+}
